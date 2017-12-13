@@ -1,0 +1,2 @@
+# journal
+right now im feeling more confident than i ever have when it comes to code   my biggest struggling area is time management im finding myself taking too much time on cirtain things and then falling asleep and not even turning it in on time.  im doing my best and right now my main focu is learning as much as possable and kicking ass at js objects  those were my struggle and now are my primary thought i find myself overthinking everything and stressing my self out then when i get home i just fall asleep  i need to change that
